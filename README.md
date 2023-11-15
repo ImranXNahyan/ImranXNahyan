@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ImranXNahyan
+- This is an emulator for running Pokémon Emerald version.
